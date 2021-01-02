@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Nous sommes un collectif de protection des forêts urbaines qui se mobilise pour la reappropriation citoyenne du bois l'evêque/Laveu/Liege/Belgique.
   Nous ne sommes jamais assez... rejoignez-nous!
 baseurl: "/lesgrenouilles.tk" # the subpath of your site, e.g. /blog
-url: "http://www.lesgrenouilles.tk"
+url: "https://www.lesgrenouilles.tk"
 twitter_username: RRaphael
 github_username:  RRINKIN
 
