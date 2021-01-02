@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Les villes aussi ont besoin d'arbres, de vertures et d'ecosystemes riches.
   Nous sommes un collectif de protection des forêts urbaines qui se mobilise pour la reappropriation citoyenne du bois l'evêque/Laveu/Liege/Belgique.
   Nous ne sommes jamais assez... rejoignez-nous!
-baseurl: "LesGrenouilles" # the subpath of your site, e.g. /blog
+baseurl: "lesgrenouilles.tk" # the subpath of your site, e.g. /blog
 url: "" #http://lesgrenouilles.tk
 twitter_username: jekyllrb
 github_username:  RRINKIN
