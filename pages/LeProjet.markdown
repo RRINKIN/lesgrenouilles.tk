@@ -4,16 +4,8 @@ title: Le projet
 permalink: /Projet/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-ceci est un test
+A propos du bois
+Le bois l'évêque est situé a cheval sur le quartier du Laveu et de Cointe en bordure de la ville de Liege.
+Il s'étant sur une superficie de 5700m2 partiellement constructible mais ayant recu a de nombreuses reprises des avis négatifs de la part des autorités compétentes.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+A propos du projet
