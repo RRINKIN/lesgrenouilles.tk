@@ -68,7 +68,19 @@ img {
   vertical-align: middle;
 }
 
-
+.page-content {
+padding-top:0px;
+padding-bottom:30px;
+}
+.image_home{
+  height: calc(100vh - 200px);
+}
+.image_home img {
+    display: block;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
 
 /**
  * Figures
