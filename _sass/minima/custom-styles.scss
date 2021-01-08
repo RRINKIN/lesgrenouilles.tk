@@ -6,10 +6,53 @@ padding-bottom:30px;
 }
 .image_home{
   height: calc(100vh - 200px);
+  position: relative;
 }
 .image_home img {
     display: block;
     object-fit: cover;
     height: 100%;
     width: 100%;
+}
+
+form {
+  margin: 0 auto;
+  width: 400px;
+  padding: 1em;
+  border: 1px solid #FFFFFF;
+  display: block;
+}
+
+.form-join-us-text {
+  display: inline-block;
+}
+
+.button {
+  display: inline-block;
+}
+
+.image_home .accroche {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    text-align: center;
+    font-size: 250%;
+    font-weight: bold;
+    padding-top: 20%;
+    color: #FFF;
+}
+
+.image_home .form-join-us {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    text-align: center;
+    padding-top: 23%;
+    color: #FFF;
 }
