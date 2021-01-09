@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Signez notre pétition"
+date:   2020-03-12 12:43:18 +0100
+categories: jekyll update
+---
+Les riverains créent une pétition.
+Actuellement, vous êtes plus de 3000 a soutenir le projet et nous vous en remercions!
+Il n'est jamais trop tard pour nous encourager.
+Prochain objectif : 5000 signatures
+Nous comptons sur vous!
+
+-> <a href="https://www.change.org/p/la-ville-de-li%C3%A8ge-sauvons-le-bois-l-ev%C3%AAque-li%C3%A8ge-41bb5c0e-e6c7-48b0-923c-441a776336f7/u/25898449?cs_tk=AhWjD-ar9E3XD608bl4AAXicyyvNyQEABF8BvElHpfldYUkS3NMWcdaY1So%3D&utm_campaign=68a5cdc7ece04565827c5e342da6a2f1&utm_content=initial_v0_3_1&utm_medium=email&utm_source=petition_update&utm_term=cs">Signez ici</a> <-
