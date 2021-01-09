@@ -1,25 +1,27 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+html {
+  font-size: 16px;
+}
+
 .page-content {
-padding-top:0px;
-padding-bottom:30px;
+  padding-top:0px;
+  padding-bottom:30px;
 }
-.image_home{
-  height: calc(100vh - 200px);
+.image_home {
+  height: calc(((100vw /16) * 9 ) - 200px);
   position: relative;
-}
-.image_home img {
-    display: block;
-    object-fit: cover;
-    height: 100%;
-    width: 100%;
+  max-height: calc(100vh - 60px);
+  min-height: 300px;
+  background: url('austin-santaniello-bucholtz-rDrcMdvXzUw-unsplash_Large.jpg') no-repeat center center/cover;
+  .accroche {
+    font-size: 2.5rem;
+  }
 }
 
 form {
   margin: 0 auto;
   width: 400px;
-  padding: 1em;
-  border: 1px solid #FFFFFF;
   display: block;
 }
 
@@ -32,15 +34,17 @@ form {
 }
 
 .image_internal_block {
-  position: absolute;
-  top: 0;
-  left: 0;
   width: 100%;
   height: 100%;
-  display: block;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
   text-align: center;
-  font-size: 250%;
+  font-size: 100%;
   font-weight: bold;
-  padding-top: 20%;
   color: #FFF;
+}
+
+.site-nav {
+  z-index: 10;
 }
